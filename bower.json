@@ -1,0 +1,21 @@
+{
+  "name": "l5beauty",
+  "description": "My awesome blog",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "selectize": "^0.12.1",
+    "pickadate": "^3.5.6",
+    "datatables": "^1.10.12",
+    "datatables-plugins": "^1.10.12",
+    "clean-blog": "^1.0.1",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
